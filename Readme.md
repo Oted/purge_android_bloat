@@ -1,1 +1,1 @@
-This scripth tries to remove, then fallbacks to disabling bloatware on androin/xiaomi phones
+This scripth tries to remove, then fallbacks to disabling bloatware on android/xiaomi phones
